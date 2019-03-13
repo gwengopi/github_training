@@ -18,3 +18,17 @@ git push origin master - pushes local branch 'master' to 'origin' - base url
 git pull - pulls latest updated files from remote to local
 
 create branch in remote
+
+git push --set-upstrea origin develop
+
+git merge source
+but before merging we should switch to destination
+
+git checkout master
+git merge developer
+git push
+
+git remote add  repository_name URL
+git remote rename repository_name new_name
+
+git remove repository_name
