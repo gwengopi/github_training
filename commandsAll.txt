@@ -8,3 +8,8 @@ git status - gives status of current local repo
 
 git branch -a - display all branches
 git status  - displays all status of the repo
+git add -A --all
+or
+git add . - adds all file to staging area
+
+git log  -  displays git commit history
