@@ -13,3 +13,4 @@ or
 git add . - adds all file to staging area
 
 git log  -  displays git commit history
+git push origin master - pushes local branch 'master' to 'origin' - base url
