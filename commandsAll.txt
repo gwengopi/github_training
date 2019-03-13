@@ -17,4 +17,4 @@ git push origin master - pushes local branch 'master' to 'origin' - base url
 
 git pull - pulls latest updated files from remote to local
 
-create branch in remote
+create branch in remotehey
