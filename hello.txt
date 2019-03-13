@@ -1,3 +1,0 @@
-hey all, learining git again!!
-Editing from github page not from local!!!!
-Edition revison from local page to create conflict.

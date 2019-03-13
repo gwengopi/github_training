@@ -14,3 +14,7 @@ git add . - adds all file to staging area
 
 git log  -  displays git commit history
 git push origin master - pushes local branch 'master' to 'origin' - base url
+
+git pull - pulls latest updated files from remote to local
+
+create branch in remote
